@@ -1,0 +1,11 @@
+Employee_ID,Name,Department,Age,Experience,City,Salary,Bonus,Total_Salary,Tax,Net_Salary,Salary_Category
+106,Frank,Finance,41,15,Mumbai,150000,30000,180000,18000.0,162000.0,High
+104,David,IT,35,10,Bengaluru,120000,25000,145000,14500.0,130500.0,High
+110,Jack,Finance,38,12,Bengaluru,110000,20000,130000,13000.0,117000.0,High
+102,Bob,IT,31,8,Mumbai,90000,15000,105000,10500.0,94500.0,Medium
+109,Ivy,Marketing,30,7,Delhi,85000,12000,97000,4850.0,92150.0,Medium
+107,Grace,HR,33,9,Chennai,70000,10000,80000,4000.0,76000.0,Medium
+103,Charlie,Finance,29,5,Delhi,65000,8000,73000,3650.0,69350.0,low
+105,Eva,Marketing,27,4,Pune,55000,6000,61000,3050.0,57950.0,low
+101,Alice,HR,26,3,Delhi,45000,5000,50000,2500.0,47500.0,low
+108,Henry,IT,24,2,Hyderabad,40000,3000,43000,2150.0,40850.0,low
